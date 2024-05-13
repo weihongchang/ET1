@@ -1,0 +1,11 @@
+{
+  "name": "my-plugin",
+  "displayName": "tt",
+  "description": "",
+  "version": "1.0",
+  "author": {
+    "name": "NINGMEI"
+  },
+  "icon": "",
+  "main": "main.js"
+}
